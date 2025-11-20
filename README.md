@@ -1,16 +1,12 @@
-## Hi there 👋
+## About me
 
-<!--
-**suduck1004-gh/suduck1004-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Markdown language, Git and GitHub !
+- 😎 I’m currently become interested in working React and using Obsidian.
+- 🔭 My current study list
+  - Frontend
+    - Html
+    - Css
+    - JavaScript, TypeScript
+    - React
+  - Backend
+    - DataBase
